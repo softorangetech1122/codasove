@@ -10,7 +10,7 @@ function _getBuildURL(inputs: UploaderInputs): string {
   return inputs.environment['CIRCLE_BUILD_URL'] ?? ''
 }
 
-// This is the value that gets passed to the Codecov uploader
+// This is the value that gets passed to the codasove uploader
 function _getService(): string {
   return 'circleci'
 }

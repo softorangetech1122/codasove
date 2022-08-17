@@ -23,7 +23,7 @@ function _getBuild(inputs: UploaderInputs): string {
 }
 
 /**
- * Determine the build URL for use in the Codecov UI
+ * Determine the build URL for use in the codasove UI
  *
  * @param {args: {}, envs: {}} inputs an object of arguments and enviromental variable key/value pairs
  * @returns {string}
@@ -65,7 +65,7 @@ function _getPR(inputs: UploaderInputs): string {
 }
 
 /**
- * The CI service name that gets sent to the Codecov uploader as part of the query string
+ * The CI service name that gets sent to the codasove uploader as part of the query string
  *
  * @returns {string}
  */

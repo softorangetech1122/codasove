@@ -12,7 +12,7 @@ function _getBuild(inputs: UploaderInputs): string {
 }
 
 function _getBuildURL(): string {
-  // TODO: https://github.com/codecov/uploader/issues/267
+  // TODO: https://github.com/codasove/uploader/issues/267
   return ''
 }
 

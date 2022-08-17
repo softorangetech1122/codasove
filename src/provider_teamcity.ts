@@ -9,7 +9,7 @@ function _getBuildURL(): string {
   return ''
 }
 
-// This is the value that gets passed to the Codecov uploader
+// This is the value that gets passed to the codasove uploader
 function _getService(): string {
   return 'teamcity'
 }
