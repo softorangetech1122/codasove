@@ -18,9 +18,7 @@ function _getBuild(inputs: UploaderInputs): string {
 function _getBuildURL(inputs: UploaderInputs): string {
   const { environment: envs } = inputs
   return (
-    `${envs.GITHUB_SERVER_URL}/${_getSlug(inputs)}/actions/runs/${_getBuild(
-      inputs,
-    )}`
+    `${envs.GITHUB_SERVER_URL}/${_getSlug(inputs)}/actions/runs/${_getBuild(inputs,)}`
   )
 }
 
