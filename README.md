@@ -1,2 +1,1 @@
-# codasove
-A free alternative to Codecov.
+# Codasove has moved to [Codasove/Core](https://github.com/Codasove/Core).
