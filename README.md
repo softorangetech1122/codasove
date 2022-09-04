@@ -1,1 +1,1 @@
-# Codasove has moved to [Codasove/Core](https://github.com/Codasove/Core).
+# Codasove has moved to [codasove-coverage/Core](https://github.com/codasove-coverage/Core).
